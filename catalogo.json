@@ -1,1 +1,13 @@
-PLACEHOLDER
+{
+  "inventory": [
+    {
+      "id": "241f181e-fbec-4743-bc35-e463bd0b7ba1",
+      "code": "",
+      "name": "CHUPIN BASICO",
+      "size": "3",
+      "color": "NEGRO",
+      "salePrice": 28500,
+      "qty": 0
+    }
+  ]
+}
